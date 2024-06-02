@@ -9,6 +9,7 @@
         <p>We decided to make a website for people in different time zones to work together. It will make it easy to schedule meetings, check their working availability in local time, and be visually clear to understand.</p>
     </div>
 
+
 # :movie_camera: Demo GIF
 </div><p align="center">
 <img src="https://github.com/NAry-Byun/workmate/blob/master/img/wokemate1.gif?raw=true"></img></p><div></div>
@@ -24,6 +25,12 @@ Dongjin Kim
 Miyoung Park
 
 Juengmin Noh
+
+# Project Period
+
+16th Jan - 21st Jan (1-week project)
+
+Need to improve with this idea
 
 
 # ⚒️ Tech stack!
