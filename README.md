@@ -28,7 +28,7 @@ Juengmin Noh
 
 # Project Period
 
-16th Jan - 21st Jan (1-week project)
+26th Feb - 3rd Mar (1-week project)
 
 Need to improve with this idea
 
