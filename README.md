@@ -49,3 +49,7 @@ Creat with Html +  CSS + Java script + Google Map API + Google Calandar API + Fi
 I used Firebase to create login APIs that connect with Google and include an email login feature.<br>
 
 <img src="https://github.com/NAry-Byun/workmate/blob/master/img/workmate2.png?raw=true" ></img></div>
+
+# Brainstorming with Team members
+
+<img src="https://github.com/NAry-Byun/workmate/blob/master/img/workmate3.png?raw=true" ></img>
