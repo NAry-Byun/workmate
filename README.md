@@ -7,8 +7,8 @@
 # <p align="center">Work Mate
 <p align="center">
 This project is for Digital Normad project <p align="center">
-<img src="https://github.com/NAry-Byun/workmate/blob/master/img/wokemate.gif?raw=true"></img></p>
-<p align="center">Download link :<br> Just Download the zip file -> https://arin1.itch.io/streetsavvy  <br> <br>
+<img src="https://github.com/NAry-Byun/workmate/blob/master/img/wokemate.gif?raw=true"></img></p><div></div>
+<p align="center">Project Website link :<br> https://wokemate.netlify.app  <br> <br>
 Demo Video Link: https://youtu.be/12CrMcJE-Tc?si=Wq62WERrE5rKwguB <br><br>
 Presentation Link:</p> https://stdntpartners-my.sharepoint.com/:p:/g/personal/sarosij_ghoshray_studentambassadors_com/EdpKxvJk3JpOrF8yI5-U7U4BwUcBD_S-vApy7fOQCMRxaA?e=wsquqK
 
