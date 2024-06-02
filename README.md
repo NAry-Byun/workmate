@@ -1,7 +1,7 @@
 https://wokemate.netlify.app/
 <img src="https://github.com/NAry-Byun/workmate/blob/master/Screenshot%202024-04-08%20231712.png?raw=true">
-![Uploading wokemate.gif…]()
 
+<img src="https://github.com/NAry-Byun/workmate/blob/master/img/wokemate.gif?raw=true" alt="Alternate text" width="200"/>
 
  
 # <p align="center">Work Mate
