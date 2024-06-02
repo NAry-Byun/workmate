@@ -31,6 +31,6 @@ Juengmin Noh
 
 
 Creat with Html +  CSS + Java script + Google Map API + Google Calandar API + FireBase
-
+<div>Deploy with netlify.com </div>
 
 <img src="https://github.com/NAry-Byun/workmate/blob/master/img/workmate2.png?raw=true" ></img>
