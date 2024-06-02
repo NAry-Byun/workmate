@@ -53,3 +53,6 @@ I used Firebase to create login APIs that connect with Google and include an ema
 # Brainstorming with Team members
 
 <img src="https://github.com/NAry-Byun/workmate/blob/master/img/workmate3.png?raw=true" ></img>
+
+
+We used MIRO to share ideas and communicate. It helped us create the workflow and framework for the site.
