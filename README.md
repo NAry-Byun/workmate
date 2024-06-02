@@ -9,7 +9,7 @@
 This project is for the Digital Nomad project. <div>
 We are working with 4 team members who are living in Sydney, Melbourne, Perth, and France.<p> They are facing challenges working together due to time zone differences.</p>
 
-<div> We decided to make a website for people in different time zones to work together.<p> It will make it easy to schedule meetings, check their working availability in local time, and be visually clear to understand.</div>
+<div> We decided to make a website for people in different time zones to work together.<p> It will make it easy to schedule meetings, check their working availability in local time, and be visually clear to understand.</div></p>
 </div><p align="center">
 <img src="https://github.com/NAry-Byun/workmate/blob/master/img/wokemate1.gif?raw=true"></img></p><div></div>
 <p align="center">Project Website link :<br> https://wokemate.netlify.app  <br> <br>
